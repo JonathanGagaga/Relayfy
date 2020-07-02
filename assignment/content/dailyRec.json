@@ -1,0 +1,17 @@
+[
+  {
+    "id": "REC001",
+    "name": "Chickbit Wrap",
+    "description": "Chicken, mushroom, cheese, tomato, pickle, lettuce",
+    "price": 1099,
+    "image": "Chickbit-Wrap-e1561691730629-510x414.jpg"
+  },
+  {
+    "id": "REC002",
+    "name": "Vegibit Wrap",
+    "description": "Tomato, Patato, lettuce",
+    "price": 999,
+    "image": "Vegibit-Wrap-e1561691655224-510x414.jpg"
+  }
+  
+]
